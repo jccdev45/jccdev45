@@ -4,13 +4,15 @@ Hi 👋 My name is Jordan
 Software Engineer | Home Cook | Semi-cool Guy
 ---------------------------------------------
 
-I've been learning to code on and off for about 5 years now, after making the switch from being an electrician. I lean towards frontend development, specifically React & TailwindCSS, but I have no problem working with backend technology. Outside of dev work, I'm a big fan of metal music, video games and pro wrestling.
+I've been learning to code on and off for about 5 years now, after making the switch from being an electrician. I lean towards frontend development, specifically React & TailwindCSS, but I have no problem working with backend technology. Outside of dev work, I'm a big fan of metal, video games and pro wrestling.
 
 *   🌍  I'm based in New York
 *   🖥️  Check out my portfolio at [jccdev.vercel.app](http://jccdev.vercel.app), a light replica of a Windows 98 desktop experience in the browser
 *   ✉️  Contact me at [jccdev45@gmail.com](mailto:jccdev45@gmail.com)
 *   🧠  I'm learning more about Remix currently but always looking to sharpen my skills in all areas
 *   🤝  I'm open to collaborating on anything and everything
+*   🎶  Jamming on: PeelingFlesh, Dreamwake, PSYCHO-FRAME
+*   🎮  Gaming on: League of Legends, Baldur's Gate 3, Elden Ring
 *   ⚡  🆗🆒
 
 ### Skills 
